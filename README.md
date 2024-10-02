@@ -2,7 +2,7 @@
 
 Simulates a game of monopoly on a JApplet user interface.
 
-This was a project done in my sophomore year of college for a class where I was learning Java and SQL.
+This was a project done in my sophomore year of college for a class learning Java and SQL.
 
 Coded in Netbeans IDE.
 The main method is located in the "Monopoly2.java" file, and most of the coding for the behavior of the game was done in "Interface.java". 
